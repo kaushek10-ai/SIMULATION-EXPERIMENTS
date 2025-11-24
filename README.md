@@ -66,7 +66,8 @@
 ![WhatsApp Image 2025-11-24 at 14 25 09_db73039a](https://github.com/user-attachments/assets/840f92a1-81e8-4c38-bcfa-df02319a2e8b)
 
 # SIMULATED OUTPUT
-![Uploading WhatsApp Image 2025-11-24 at 14.25.09_854c131e.jpg…]()
+![WhatsApp Image 2025-11-24 at 14 25 09_c6e93f37](https://github.com/user-attachments/assets/954017bb-3b49-43e3-9b55-a345a684c3d4)
+
 
 # RESULT
 Thus the stimulation experiment was successfully experimented.
