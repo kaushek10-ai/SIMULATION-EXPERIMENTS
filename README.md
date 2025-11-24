@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-10-23 143104" src="https://github.com/user-attachments/assets/32a4a4f3-0b59-45fc-bda7-6b34e3e7039c" /># SIMULATION-EXPERIMENTS
+# SIMULATION-EXPERIMENTS
 
 # AIM : To Design and simulate the following experiments using LT-Spice.
 1.Inverting,Non-Inverting and Differential Amplifier
@@ -36,7 +36,8 @@
 <img width="940" height="417" alt="image" src="https://github.com/user-attachments/assets/f71930f1-ea31-49fb-a24f-1f2af33a6d6e" />
 
 # CIRCUIT DIAGRAM- INSTRUMENTATION AMPLIFIER
-<img width="1920" height="1080" alt="Screenshot 2025-10-23 143104" src="https://github.com/user-attachments/assets/81d79a66-8faa-4e9e-9445-56c7bb536dca" />
+<img width="778" height="593" alt="image" src="https://github.com/user-attachments/assets/546ee33d-cd01-4517-a48c-3673e5015301" />
+
 
 
 # SIMULATED OUTPUT
@@ -62,8 +63,10 @@
 <img width="932" height="368" alt="image" src="https://github.com/user-attachments/assets/cdc1382e-bf42-4e0f-bafe-c6467fa8fbdd" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
+![WhatsApp Image 2025-11-24 at 14 25 09_db73039a](https://github.com/user-attachments/assets/840f92a1-81e8-4c38-bcfa-df02319a2e8b)
 
 # SIMULATED OUTPUT
+![Uploading WhatsApp Image 2025-11-24 at 14.25.09_854c131e.jpg…]()
 
 # RESULT
 Thus the stimulation experiment was successfully experimented.
